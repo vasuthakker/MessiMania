@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Messi Mania</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="wallpaper_description">FootBally</string>
+    <string name="refresh_rate">Refresh Rate:</string>
+    <string name="button_title">Set Wallpaper</string>
+    <string name="touch_enabled">Touch Enabled:</string>
+
+    <string-array name="refresh_values">
+        <item>5 Seconds</item>
+        <item>10 Seconds</item>
+        <item>15 Seconds</item>
+    </string-array>
+
+</resources>
